@@ -22,13 +22,11 @@
 ![React-Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white)
 ![React-Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react-query&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?logo=nodemon&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
@@ -38,3 +36,12 @@
 
 
 
+## 🎯 Goals and About Me
+- 🚀 Passionate about creating efficient and scalable web applications that solve real-world problems.  
+- 🌱 Currently enhancing my skills in **Chart.js**, **GraphQL**, and **TailwindCSS**.  
+- 🎯 **Goals for 2025**:
+  - Launch **5+ e-commerce websites** to help businesses scale their online presence.  
+  - Develop and deploy a **project management platform** tailored for team collaboration and productivity.  
+  - Build a **book summary website** to make knowledge accessible to a wider audience.  
+- 🤝 Open to collaborating on innovative projects that make an impact.
+- 💡 Always looking for opportunities to learn, grow, and contribute to the tech community.
