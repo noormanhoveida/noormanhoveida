@@ -49,3 +49,10 @@
 
 ## 📅 GitHub Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noormanhoveida&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## 🎉 Fun Facts
+- 🧩 I love designing board games.
+- 🎨 I do 3D design at a beginner level and own a 3D printer.
+- 💼 I'm interested in business consulting and have some experience in this field.
+
