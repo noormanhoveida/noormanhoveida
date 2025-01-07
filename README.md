@@ -34,8 +34,8 @@
 ![Context-API](https://img.shields.io/badge/-Context--API-blue)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 
-## 🗣 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noormanhoveida&hide=html&layout=compact)
+## 🗣 Languages & Frameworks Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noormanhoveida&layout=compact&hide=html)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noormanhoveida&show_icons=true&count_private=true&hide=prs)
