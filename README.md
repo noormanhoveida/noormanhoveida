@@ -45,3 +45,7 @@
   - Build a **book summary website** to make knowledge accessible to a wider audience.  
 - 🤝 Open to collaborating on innovative projects that make an impact.
 - 💡 Always looking for opportunities to learn, grow, and contribute to the tech community.
+
+
+## 📅 GitHub Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noormanhoveida&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
