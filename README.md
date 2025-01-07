@@ -6,7 +6,7 @@
 📅 **Experience:** Over 1 years of expertise in programming and development   
 📧 **Email:** nooreddin.hoveida@gmail.com  
 📞 **Phone:** +98 (915) 0036518 
-
+🚀 Passionate about creating efficient and scalable web applications that solve real-world problems.
 ---
 
 ## 🔧 Technologies
@@ -36,8 +36,8 @@
 
 
 
-## 🎯 Goals and About Me
-- 🚀 Passionate about creating efficient and scalable web applications that solve real-world problems.  
+## 🎯 Goals
+  
 - 🌱 Currently enhancing my skills in **Chart.js**, **GraphQL**, and **TailwindCSS**.  
 - 🎯 **Goals for 2025**:
   - Launch **5+ e-commerce websites** to help businesses scale their online presence.  
