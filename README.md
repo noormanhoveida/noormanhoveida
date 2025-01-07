@@ -38,11 +38,11 @@
 
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical](https://github.com/noormanhoveida/noormanhoveida/tree/main))
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical](https://github.com/noormanhoveida/noormanhoveida/tree/main))
 
 ---
 
 ## 🏆 Top Contributed Repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=radical)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=radical](https://github.com/noormanhoveida/noormanhoveida/tree/main))]([https://github.com/YOUR_USERNAME/YOUR_REPO](https://github.com/noormanhoveida/noormanhoveida/tree/main))
