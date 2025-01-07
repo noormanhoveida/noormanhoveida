@@ -37,4 +37,12 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 
 
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🏆 Top Contributed Repos:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=radical)](https://github.com/YOUR_USERNAME/YOUR_REPO)
